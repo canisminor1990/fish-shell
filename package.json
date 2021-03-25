@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "fish": "cd fish && touch bash ./install.sh"
+    "fish": "cd fish && bash ./install.sh"
   },
   "repository": {
     "type": "git",
